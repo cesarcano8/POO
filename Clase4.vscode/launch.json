@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicio1",
+            "projectName": "POO_aff14d0e"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicio2",
+            "projectName": "POO_aff14d0e"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3A",
+            "request": "launch",
+            "mainClass": "Ejercicio3A",
+            "projectName": "POO_aff14d0e"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3B",
+            "request": "launch",
+            "mainClass": "Ejercicio3B",
+            "projectName": "POO_aff14d0e"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3C",
+            "request": "launch",
+            "mainClass": "Ejercicio3C",
+            "projectName": "POO_aff14d0e"
+        },
+        {
+            "type": "java",
+            "name": "Expresiones",
+            "request": "launch",
+            "mainClass": "Expresiones",
+            "projectName": "POO_aff14d0e"
+        },
+        {
+            "type": "java",
+            "name": "Taller",
+            "request": "launch",
+            "mainClass": "Taller",
+            "projectName": "POO_aff14d0e"
+        }
+    ]
+}
