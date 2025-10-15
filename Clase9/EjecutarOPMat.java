@@ -124,7 +124,7 @@ public class EjecutarOPMat {
 
         }while(opcion != 11);
 
-        sc.close();
+        sc.close();  sc.close();
 
         /*Tarea: Implementar los metodos 
         elevar al cuadrado
