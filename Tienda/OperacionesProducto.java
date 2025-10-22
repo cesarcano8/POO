@@ -10,6 +10,10 @@ public class OperacionesProducto {
     }
 
     public static double aplicarDescuento(double subtotal, double porcentajeDescuento) {
+        if (porcentajeDescuento < 0 || porcentajeDescuento > 50) {
+            System.out.println("Error: el descuento debe estar entre 0% y 50%.");
+            return subtotal; 
+        }
         return subtotal * (1 - porcentajeDescuento / 100);
     }
 
