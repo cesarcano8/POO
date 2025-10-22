@@ -9,8 +9,5 @@ public class EjecutarHerenciaAnimal {
         miAnimal.hacerSonido();
         Jun.hacerSonido();
         Candy.hacerSonido();
-
-        
-
     }
 }

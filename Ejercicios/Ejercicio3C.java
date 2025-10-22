@@ -1,3 +1,4 @@
+package Ejercicios;
 public class Ejercicio3C {
 
     public static void main(String[] args){

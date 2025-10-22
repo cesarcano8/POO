@@ -1,3 +1,4 @@
+package Ejercicios;
 public class prueba {
     public static void main(String[] args) {
         int x = 10;
